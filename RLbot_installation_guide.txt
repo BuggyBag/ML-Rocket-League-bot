@@ -1,0 +1,63 @@
+
+RLBot Installation Guide
+=========================
+
+This guide explains how to install the RLBot framework to play against bots in Rocket League.
+
+1. Requirements
+---------------
+- Rocket League (PC version, preferably via Steam)
+- Windows OS (RLBot works best on Windows)
+- Python 3.7 to 3.10 (RLBot may not work well with newer versions)
+- Git (recommended)
+
+2. Install Python
+-----------------
+Download and install Python from: https://www.python.org/downloads/
+
+During installation, check the box "Add Python to PATH".
+
+3. Set Up a Virtual Environment (optional but recommended)
+-----------------------------------------------------------
+Open a terminal and run:
+
+    python -m venv rlbot-env
+    rlbot-env\Scripts\activate   (On Windows)
+
+4. Install RLBot Framework
+---------------------------
+Run the following command to install RLBot:
+
+    pip install rlbot
+
+If you get permission errors, try:
+
+    pip install --user rlbot
+
+5. Install Git (if not already installed)
+-----------------------------------------
+Download Git from: https://git-scm.com/
+
+6. Clone an Example Bot Project (Optional)
+------------------------------------------
+You can download the official example bots to play against:
+
+    git clone https://github.com/RLBot/RLBotPack.git
+    cd RLBotPack
+
+Run the bot launcher script to test it out:
+
+    python run.py
+
+7. Troubleshooting
+------------------
+- Make sure Rocket League is running before launching bots.
+- If you installed Rocket League from Epic Games, ensure "Enable Rocket League API Access" is enabled in settings.
+- Always use compatible Python versions (3.7–3.10).
+
+8. More Resources
+-----------------
+- RLBot documentation: https://www.rlbot.org
+- Discord community: https://discord.gg/rlbot
+
+Enjoy playing Rocket League against custom bots!

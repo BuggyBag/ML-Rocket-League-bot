@@ -1,0 +1,422 @@
+2025-04-23 12:29:33,384 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:33,385 - ERROR - No valid state-action pairs in ./replays\00e658c8-78f7-4abe-b5f6-45eee99139c2.replay
+2025-04-23 12:29:33,532 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:33,532 - ERROR - No valid state-action pairs in ./replays\01307dca-d268-4e25-83e6-d6a260250564.replay
+2025-04-23 12:29:33,816 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:33,816 - ERROR - No valid state-action pairs in ./replays\0161f20b-c991-461b-9aa8-bf266499dae2.replay
+2025-04-23 12:29:34,084 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:34,084 - ERROR - No valid state-action pairs in ./replays\02d854e9-50b4-47fa-b9fd-8c90a1d54a2a.replay
+2025-04-23 12:29:34,317 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:34,317 - ERROR - No valid state-action pairs in ./replays\0324a165-e9a5-4751-9a01-3dcd04489438.replay
+2025-04-23 12:29:34,594 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:34,594 - ERROR - No valid state-action pairs in ./replays\036144a3-d22b-4841-811f-2cfe47c78a84.replay
+2025-04-23 12:29:34,803 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:34,803 - ERROR - No valid state-action pairs in ./replays\037859cb-b338-459e-906e-9ba131560b50.replay
+2025-04-23 12:29:34,968 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:34,969 - ERROR - No valid state-action pairs in ./replays\0447af7e-4846-49f5-9528-1a422cb2492e.replay
+2025-04-23 12:29:35,243 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:35,244 - ERROR - No valid state-action pairs in ./replays\0608c289-4a39-4ce1-b95a-eccdb1a2ea18.replay
+2025-04-23 12:29:35,567 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:35,568 - ERROR - No valid state-action pairs in ./replays\060b81a9-55d4-425a-8aac-cf1e5dd8c878.replay
+2025-04-23 12:29:35,673 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:35,673 - ERROR - No valid state-action pairs in ./replays\06b4bbcb-9a4e-4267-be66-e581126254f1.replay
+2025-04-23 12:29:35,889 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:35,889 - ERROR - No valid state-action pairs in ./replays\071a9fab-f240-48e7-84f2-29fb7d42ba20.replay
+2025-04-23 12:29:36,198 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:36,198 - ERROR - No valid state-action pairs in ./replays\0a809b51-7973-4340-beca-248aab096cea.replay
+2025-04-23 12:29:36,477 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:36,477 - ERROR - No valid state-action pairs in ./replays\0b8f5fee-dcc5-41d7-978e-6fe82471520f.replay
+2025-04-23 12:29:36,708 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:36,708 - ERROR - No valid state-action pairs in ./replays\0bd41c1a-85b2-46e5-9fb9-ab0d42d1819e.replay
+2025-04-23 12:29:36,907 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:36,907 - ERROR - No valid state-action pairs in ./replays\0da08d30-9a78-4539-8d4d-d504e2edad4b.replay
+2025-04-23 12:29:37,263 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:37,263 - ERROR - No valid state-action pairs in ./replays\0deaed57-27e8-46bb-a954-ede87373bc4b.replay
+2025-04-23 12:29:37,599 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:37,599 - ERROR - No valid state-action pairs in ./replays\0e1cd59b-055f-498d-afeb-edfc2fe5847a.replay
+2025-04-23 12:29:37,856 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:37,857 - ERROR - No valid state-action pairs in ./replays\106700ee-54d2-4faa-b89a-d600e932c8cc.replay
+2025-04-23 12:29:38,106 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:38,106 - ERROR - No valid state-action pairs in ./replays\11afd2cc-4ce8-4f7a-b823-e043081f7bd5.replay
+2025-04-23 12:29:38,341 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:29:38,341 - ERROR - No valid state-action pairs in ./replays\1399a388-58cf-4c40-8902-0b0b2f2abc4e.replay
+2025-04-23 12:35:12,419 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:12,419 - ERROR - No valid state-action pairs in ./replays\00e658c8-78f7-4abe-b5f6-45eee99139c2.replay
+2025-04-23 12:35:12,552 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:12,552 - ERROR - No valid state-action pairs in ./replays\01307dca-d268-4e25-83e6-d6a260250564.replay
+2025-04-23 12:35:12,828 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:12,828 - ERROR - No valid state-action pairs in ./replays\0161f20b-c991-461b-9aa8-bf266499dae2.replay
+2025-04-23 12:35:13,080 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:13,080 - ERROR - No valid state-action pairs in ./replays\02d854e9-50b4-47fa-b9fd-8c90a1d54a2a.replay
+2025-04-23 12:35:13,298 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:13,299 - ERROR - No valid state-action pairs in ./replays\0324a165-e9a5-4751-9a01-3dcd04489438.replay
+2025-04-23 12:35:13,547 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:13,547 - ERROR - No valid state-action pairs in ./replays\036144a3-d22b-4841-811f-2cfe47c78a84.replay
+2025-04-23 12:35:13,745 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:13,745 - ERROR - No valid state-action pairs in ./replays\037859cb-b338-459e-906e-9ba131560b50.replay
+2025-04-23 12:35:13,889 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:13,889 - ERROR - No valid state-action pairs in ./replays\0447af7e-4846-49f5-9528-1a422cb2492e.replay
+2025-04-23 12:35:14,120 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:14,120 - ERROR - No valid state-action pairs in ./replays\0608c289-4a39-4ce1-b95a-eccdb1a2ea18.replay
+2025-04-23 12:35:14,424 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:14,424 - ERROR - No valid state-action pairs in ./replays\060b81a9-55d4-425a-8aac-cf1e5dd8c878.replay
+2025-04-23 12:35:14,524 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:14,524 - ERROR - No valid state-action pairs in ./replays\06b4bbcb-9a4e-4267-be66-e581126254f1.replay
+2025-04-23 12:35:14,737 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:14,737 - ERROR - No valid state-action pairs in ./replays\071a9fab-f240-48e7-84f2-29fb7d42ba20.replay
+2025-04-23 12:35:15,035 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:15,035 - ERROR - No valid state-action pairs in ./replays\0a809b51-7973-4340-beca-248aab096cea.replay
+2025-04-23 12:35:15,297 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:15,297 - ERROR - No valid state-action pairs in ./replays\0b8f5fee-dcc5-41d7-978e-6fe82471520f.replay
+2025-04-23 12:35:15,499 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:15,499 - ERROR - No valid state-action pairs in ./replays\0bd41c1a-85b2-46e5-9fb9-ab0d42d1819e.replay
+2025-04-23 12:35:15,697 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:15,698 - ERROR - No valid state-action pairs in ./replays\0da08d30-9a78-4539-8d4d-d504e2edad4b.replay
+2025-04-23 12:35:16,050 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:16,050 - ERROR - No valid state-action pairs in ./replays\0deaed57-27e8-46bb-a954-ede87373bc4b.replay
+2025-04-23 12:35:16,375 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:16,375 - ERROR - No valid state-action pairs in ./replays\0e1cd59b-055f-498d-afeb-edfc2fe5847a.replay
+2025-04-23 12:35:16,636 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:16,636 - ERROR - No valid state-action pairs in ./replays\106700ee-54d2-4faa-b89a-d600e932c8cc.replay
+2025-04-23 12:35:16,861 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:16,861 - ERROR - No valid state-action pairs in ./replays\11afd2cc-4ce8-4f7a-b823-e043081f7bd5.replay
+2025-04-23 12:35:17,071 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:17,071 - ERROR - No valid state-action pairs in ./replays\1399a388-58cf-4c40-8902-0b0b2f2abc4e.replay
+2025-04-23 12:35:17,328 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:17,328 - ERROR - No valid state-action pairs in ./replays\13f68245-1fa9-42b1-81c8-747e67f9d62c.replay
+2025-04-23 12:35:17,452 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:17,452 - ERROR - No valid state-action pairs in ./replays\1464f0f2-3e90-4abb-9620-56af3256b7e8.replay
+2025-04-23 12:35:17,690 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:17,690 - ERROR - No valid state-action pairs in ./replays\15444dd7-288a-4ff9-b171-a9478c544702.replay
+2025-04-23 12:35:17,946 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:17,946 - ERROR - No valid state-action pairs in ./replays\16e1a7f4-5ed0-42c8-a116-32c7bb0c6994.replay
+2025-04-23 12:35:18,086 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:18,087 - ERROR - No valid state-action pairs in ./replays\18733e89-565e-4b95-b5d6-8a676797ecee.replay
+2025-04-23 12:35:18,324 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:18,325 - ERROR - No valid state-action pairs in ./replays\1b3b101d-800f-47a5-820a-9c2c74208d01.replay
+2025-04-23 12:35:18,571 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:18,572 - ERROR - No valid state-action pairs in ./replays\1cb7d1f7-872c-4366-b9fa-a744ad20d7b7.replay
+2025-04-23 12:35:18,727 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:18,727 - ERROR - No valid state-action pairs in ./replays\1d7f7461-fbaa-4ac4-86fa-86b8968e2b9f.replay
+2025-04-23 12:35:19,009 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:19,009 - ERROR - No valid state-action pairs in ./replays\1f73b679-7e96-4b35-a6f2-69ad60d33c9a.replay
+2025-04-23 12:35:19,137 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:19,137 - ERROR - No valid state-action pairs in ./replays\1fb3f3b9-2ca1-447f-98f4-a02a6526fefc.replay
+2025-04-23 12:35:19,382 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:19,382 - ERROR - No valid state-action pairs in ./replays\1ff03ec5-9adc-4f77-91f5-0a0b4d2aa5d1.replay
+2025-04-23 12:35:19,720 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:19,720 - ERROR - No valid state-action pairs in ./replays\20aa52ce-b3b3-47a2-b134-92a82c3d4287.replay
+2025-04-23 12:35:20,012 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:20,012 - ERROR - No valid state-action pairs in ./replays\21fe76bb-4cff-4e17-89de-3a6185e34e0a.replay
+2025-04-23 12:35:20,291 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:20,291 - ERROR - No valid state-action pairs in ./replays\262308e5-1389-4e6d-8299-617e2bbef353.replay
+2025-04-23 12:35:20,366 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:20,366 - ERROR - No valid state-action pairs in ./replays\28265833-d43e-4e36-8e03-14045d513fff.replay
+2025-04-23 12:35:20,557 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:20,557 - ERROR - No valid state-action pairs in ./replays\29dc3ad2-bcce-459c-a0ae-fbc5414c2394.replay
+2025-04-23 12:35:20,824 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:20,824 - ERROR - No valid state-action pairs in ./replays\2ac687ae-5b50-4626-abcc-46687c74c441.replay
+2025-04-23 12:35:21,102 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:21,102 - ERROR - No valid state-action pairs in ./replays\2b220704-ec53-48a4-9db6-0caa4b4680b4.replay
+2025-04-23 12:35:21,322 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:21,323 - ERROR - No valid state-action pairs in ./replays\2bfa5024-8bcf-48f2-a557-530e3d1b4139.replay
+2025-04-23 12:35:21,583 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:21,583 - ERROR - No valid state-action pairs in ./replays\2c58c16a-b8b5-4518-a26c-a1c673a94e31.replay
+2025-04-23 12:35:21,879 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:21,879 - ERROR - No valid state-action pairs in ./replays\2d057c91-4b50-48c8-93f7-3f491806fdba.replay
+2025-04-23 12:35:22,162 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:22,162 - ERROR - No valid state-action pairs in ./replays\2e5584ae-4208-4de0-8b9a-4f90aa6d8ef3.replay
+2025-04-23 12:35:22,542 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:22,543 - ERROR - No valid state-action pairs in ./replays\2ee6f0f7-85d2-4a8c-a2be-7e10d294bfe8.replay
+2025-04-23 12:35:22,815 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:22,815 - ERROR - No valid state-action pairs in ./replays\2fee2850-237e-4c96-ac23-64bd442c38dc.replay
+2025-04-23 12:35:23,118 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:23,118 - ERROR - No valid state-action pairs in ./replays\31a76a3f-83eb-4132-bace-5d11af3c6ba7.replay
+2025-04-23 12:35:23,268 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:23,269 - ERROR - No valid state-action pairs in ./replays\33c10355-fa35-4ab0-ae5f-08faa2970c1c.replay
+2025-04-23 12:35:23,514 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:23,514 - ERROR - No valid state-action pairs in ./replays\3474d3f1-499e-4025-93b1-79ef7b91072a.replay
+2025-04-23 12:35:23,757 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:23,757 - ERROR - No valid state-action pairs in ./replays\354a1e03-f670-46c5-904c-07dcd714f097.replay
+2025-04-23 12:35:24,100 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:24,100 - ERROR - No valid state-action pairs in ./replays\35fa65b7-8b54-46e7-ad39-668e730a7984.replay
+2025-04-23 12:35:24,426 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:24,426 - ERROR - No valid state-action pairs in ./replays\3605d1bb-032d-47c2-b88a-ba64fe157953.replay
+2025-04-23 12:35:24,522 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:24,522 - ERROR - No valid state-action pairs in ./replays\37975c42-e4d1-4823-b6e5-59600888126a.replay
+2025-04-23 12:35:24,720 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:24,720 - ERROR - No valid state-action pairs in ./replays\37fa2930-924c-4c6a-8de8-9c23b4ccadc8.replay
+2025-04-23 12:35:25,064 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:25,065 - ERROR - No valid state-action pairs in ./replays\38b4849d-f50c-468b-ba6a-1125856d60a4.replay
+2025-04-23 12:35:25,456 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:25,456 - ERROR - No valid state-action pairs in ./replays\39954883-fe5a-4d73-acce-fae72dd9e60e.replay
+2025-04-23 12:35:25,813 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:25,813 - ERROR - No valid state-action pairs in ./replays\39c68418-2f09-41de-ab70-bf64efb020ce.replay
+2025-04-23 12:35:26,165 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:26,165 - ERROR - No valid state-action pairs in ./replays\3a7121d5-e429-449b-91ef-1933255f9856.replay
+2025-04-23 12:35:26,475 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:26,475 - ERROR - No valid state-action pairs in ./replays\3b0006ed-4bd7-4120-9824-cc6b742fef70.replay
+2025-04-23 12:35:26,890 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:26,890 - ERROR - No valid state-action pairs in ./replays\3bf95732-232d-4eb1-a078-1574e7262ecd.replay
+2025-04-23 12:35:27,237 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:27,237 - ERROR - No valid state-action pairs in ./replays\3c47ecbd-36fb-4e98-9a38-b32b019c118d.replay
+2025-04-23 12:35:27,513 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:27,513 - ERROR - No valid state-action pairs in ./replays\3dfda54a-5fd6-4120-8dc2-e2ed5649f75e.replay
+2025-04-23 12:35:27,868 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:27,868 - ERROR - No valid state-action pairs in ./replays\3f11f864-d69d-4a0d-9155-dde897063cec.replay
+2025-04-23 12:35:28,228 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:28,228 - ERROR - No valid state-action pairs in ./replays\412af808-a1bd-4cd6-a368-18207cba0596.replay
+2025-04-23 12:35:28,613 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:28,614 - ERROR - No valid state-action pairs in ./replays\42639c17-622c-4ce4-bbff-94b35c0eb0d7.replay
+2025-04-23 12:35:28,956 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:28,956 - ERROR - No valid state-action pairs in ./replays\4358b1d3-3458-4a5f-b9d1-247000e5277f.replay
+2025-04-23 12:35:29,536 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:29,536 - ERROR - No valid state-action pairs in ./replays\447501aa-85f2-4431-ab7c-16a87235e449.replay
+2025-04-23 12:35:30,003 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:30,003 - ERROR - No valid state-action pairs in ./replays\452fd1f6-0366-423f-9e08-acc21542c96a.replay
+2025-04-23 12:35:30,376 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:30,377 - ERROR - No valid state-action pairs in ./replays\47a1d5a2-0c44-46a9-8e91-4dc1ad8d74fc.replay
+2025-04-23 12:35:30,701 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:30,701 - ERROR - No valid state-action pairs in ./replays\4868bc3e-dd22-49e5-8c44-58fb55016c9c.replay
+2025-04-23 12:35:31,018 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:31,019 - ERROR - No valid state-action pairs in ./replays\4bad60da-674f-4614-b59d-c8a51fdc2e6f.replay
+2025-04-23 12:35:31,312 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:31,312 - ERROR - No valid state-action pairs in ./replays\4bf133f2-9013-4b4c-9ab3-b914f5b22185.replay
+2025-04-23 12:35:31,779 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:31,779 - ERROR - No valid state-action pairs in ./replays\4bf81fea-1175-4980-b78f-db1a5b32123f.replay
+2025-04-23 12:35:32,168 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:32,168 - ERROR - No valid state-action pairs in ./replays\4df9ddb4-1359-49be-9165-83e9fa5fa119.replay
+2025-04-23 12:35:32,505 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:32,505 - ERROR - No valid state-action pairs in ./replays\4ebe653b-0d4d-4e16-9308-619768d4498a.replay
+2025-04-23 12:35:32,681 - ERROR - Critical error processing ./replays\4ece9f47-2540-4c53-ab52-c7b045af865b.replay: 'NoneType' object has no attribute 'strip'
+2025-04-23 12:35:32,681 - ERROR - Traceback (most recent call last):
+  File "C:\Users\lexiv\AppData\Local\RLBotGUIX\MyBots\KaosX9\BotTraining\sample3.py", line 179, in extract_replay_data
+    if not result.stdout.strip():
+AttributeError: 'NoneType' object has no attribute 'strip'
+
+2025-04-23 12:35:33,046 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:33,046 - ERROR - No valid state-action pairs in ./replays\4f813e89-6508-42f7-814e-1c0c84cfc2c8.replay
+2025-04-23 12:35:33,350 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:33,350 - ERROR - No valid state-action pairs in ./replays\4f8f5522-c58f-4242-a9ee-132e3d1862f8.replay
+2025-04-23 12:35:33,689 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:33,689 - ERROR - No valid state-action pairs in ./replays\516af9f2-861e-47a3-910f-237a38f4b551.replay
+2025-04-23 12:35:33,964 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:33,964 - ERROR - No valid state-action pairs in ./replays\51d7bb23-d3a4-493f-bd9d-a78edcda151f.replay
+2025-04-23 12:35:34,265 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:34,265 - ERROR - No valid state-action pairs in ./replays\53637cdc-ba9e-4d40-a0e2-c242c5534421.replay
+2025-04-23 12:35:34,584 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:34,585 - ERROR - No valid state-action pairs in ./replays\55880613-f1db-4613-98af-f42abca6eee9.replay
+2025-04-23 12:35:34,923 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:34,924 - ERROR - No valid state-action pairs in ./replays\56685ac3-835a-4f0f-bb45-cbc6f56a3bcd.replay
+2025-04-23 12:35:35,232 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:35,233 - ERROR - No valid state-action pairs in ./replays\584f9e58-59b3-449c-8c65-6da9f18f9998.replay
+2025-04-23 12:35:35,520 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:35,520 - ERROR - No valid state-action pairs in ./replays\5b74ecdc-b1a7-4842-8f4b-99575d8d5f74.replay
+2025-04-23 12:35:35,870 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:35,870 - ERROR - No valid state-action pairs in ./replays\5d570bfd-402b-40dd-9e93-508fe4a4cff8.replay
+2025-04-23 12:35:36,019 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:36,019 - ERROR - No valid state-action pairs in ./replays\5ea54f45-dd2d-42ab-a178-10bb0bc0d883.replay
+2025-04-23 12:35:36,319 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:36,319 - ERROR - No valid state-action pairs in ./replays\5fb64918-826a-4154-951a-783b0542383e.replay
+2025-04-23 12:35:36,449 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:36,449 - ERROR - No valid state-action pairs in ./replays\5fec706a-e7d1-44fd-b090-52ef52e3a2b5.replay
+2025-04-23 12:35:36,579 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:36,579 - ERROR - No valid state-action pairs in ./replays\601a6d61-6016-4335-809b-7bf853815828.replay
+2025-04-23 12:35:36,816 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:36,816 - ERROR - No valid state-action pairs in ./replays\61327f1c-bbaa-41b5-8015-41973a0bbef4.replay
+2025-04-23 12:35:37,146 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:37,146 - ERROR - No valid state-action pairs in ./replays\63275b7a-4102-4e8f-9716-669bf995897b.replay
+2025-04-23 12:35:37,442 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:37,443 - ERROR - No valid state-action pairs in ./replays\65310b16-66af-41c5-b036-f51dcf125888.replay
+2025-04-23 12:35:37,759 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:37,760 - ERROR - No valid state-action pairs in ./replays\66843a8f-4bed-4fee-96ff-74bccccc132a.replay
+2025-04-23 12:35:38,094 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:38,094 - ERROR - No valid state-action pairs in ./replays\67e6c3cc-3887-4351-9fea-08669dcf4350.replay
+2025-04-23 12:35:38,435 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:38,435 - ERROR - No valid state-action pairs in ./replays\69a22aa7-4766-4614-adfb-b46cf8f2f1f2.replay
+2025-04-23 12:35:38,829 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:38,829 - ERROR - No valid state-action pairs in ./replays\69ba3fff-ae63-4d6b-a735-107902a7e07c.replay
+2025-04-23 12:35:39,100 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:39,100 - ERROR - No valid state-action pairs in ./replays\69e7ac61-8d05-4a2d-8041-d1ef65a1eb80.replay
+2025-04-23 12:35:39,447 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:39,447 - ERROR - No valid state-action pairs in ./replays\6a7503d4-b79d-41c7-94f7-a2c23a04efe8.replay
+2025-04-23 12:35:39,774 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:39,775 - ERROR - No valid state-action pairs in ./replays\6c465e0c-a96e-4336-a423-efe1b2e24a8f.replay
+2025-04-23 12:35:40,159 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:40,159 - ERROR - No valid state-action pairs in ./replays\6ca8d428-4235-4346-a215-715775867490.replay
+2025-04-23 12:35:40,245 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:40,245 - ERROR - No valid state-action pairs in ./replays\6ecef27d-d0a2-4ce3-b8a0-e1d140dfd177.replay
+2025-04-23 12:35:40,592 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:40,592 - ERROR - No valid state-action pairs in ./replays\70487e17-455a-4364-b20a-50b729737c9b.replay
+2025-04-23 12:35:40,961 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:40,961 - ERROR - No valid state-action pairs in ./replays\71dd27c7-42ad-47ac-9dda-631898b78d5a.replay
+2025-04-23 12:35:41,374 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:41,374 - ERROR - No valid state-action pairs in ./replays\733d2747-d99b-49bd-b2a0-2a6aa5c9dee0.replay
+2025-04-23 12:35:41,690 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:41,690 - ERROR - No valid state-action pairs in ./replays\740cef62-1a48-4e61-901e-c3eff3f5619f.replay
+2025-04-23 12:35:42,036 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:42,036 - ERROR - No valid state-action pairs in ./replays\752051b2-b41f-4990-b191-cd2fe72acc12.replay
+2025-04-23 12:35:42,444 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:42,444 - ERROR - No valid state-action pairs in ./replays\77684a21-634a-4150-aef0-a84d3a3d2436.replay
+2025-04-23 12:35:42,817 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:42,817 - ERROR - No valid state-action pairs in ./replays\7884b3bc-e820-4c4c-a444-01111c711ec6.replay
+2025-04-23 12:35:43,120 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:43,121 - ERROR - No valid state-action pairs in ./replays\7a342d2d-b8b5-45f6-8513-2a2ac286fd6c.replay
+2025-04-23 12:35:43,447 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:43,447 - ERROR - No valid state-action pairs in ./replays\7b240b97-ac0d-4369-9ea1-79af11d559db.replay
+2025-04-23 12:35:43,748 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:43,748 - ERROR - No valid state-action pairs in ./replays\7b3c1306-d732-4221-9a1d-06950ba00171.replay
+2025-04-23 12:35:43,992 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:43,993 - ERROR - No valid state-action pairs in ./replays\7d4b9b73-270d-4bd5-9a51-cef8fa8cb9ee.replay
+2025-04-23 12:35:44,288 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:44,288 - ERROR - No valid state-action pairs in ./replays\7e7b7a2e-b604-4a50-981e-37ff401f34ee.replay
+2025-04-23 12:35:44,582 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:44,582 - ERROR - No valid state-action pairs in ./replays\818d32ce-42c8-4c0b-b91b-c14a563ee5f8.replay
+2025-04-23 12:35:44,888 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:44,888 - ERROR - No valid state-action pairs in ./replays\8385b2fa-a795-4760-8a07-44123650c5a7.replay
+2025-04-23 12:35:45,161 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:45,161 - ERROR - No valid state-action pairs in ./replays\872b9428-6878-414a-a05c-2bc705100b54.replay
+2025-04-23 12:35:45,531 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:45,531 - ERROR - No valid state-action pairs in ./replays\877b82ba-dc87-4885-ac8a-d4605506e0f2.replay
+2025-04-23 12:35:45,876 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:45,876 - ERROR - No valid state-action pairs in ./replays\877d4505-9113-4612-bddf-e673e445f1d8.replay
+2025-04-23 12:35:46,242 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:46,243 - ERROR - No valid state-action pairs in ./replays\890ca694-e03b-4a29-a22a-41e63c1f670e.replay
+2025-04-23 12:35:46,579 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:46,579 - ERROR - No valid state-action pairs in ./replays\893d275c-4604-451e-98d2-3a82379df46d.replay
+2025-04-23 12:35:46,876 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:46,876 - ERROR - No valid state-action pairs in ./replays\8a8960e1-625a-4f38-a992-abe36231d710.replay
+2025-04-23 12:35:47,309 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:47,309 - ERROR - No valid state-action pairs in ./replays\8b75ca8c-c379-4e29-9862-5e1a190ad429.replay
+2025-04-23 12:35:47,682 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:47,682 - ERROR - No valid state-action pairs in ./replays\8c27da16-a645-4c4e-bdac-3746749ee80e.replay
+2025-04-23 12:35:48,016 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:48,016 - ERROR - No valid state-action pairs in ./replays\8dc9aee3-cc42-47b3-bdb6-5d092a672e42.replay
+2025-04-23 12:35:48,344 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:48,344 - ERROR - No valid state-action pairs in ./replays\8de3f9c6-68ab-43d0-a946-fd5f1c4d2140.replay
+2025-04-23 12:35:48,717 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:48,717 - ERROR - No valid state-action pairs in ./replays\8e29513f-12f9-437c-8b7a-1eb9ad95f27c.replay
+2025-04-23 12:35:49,015 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:49,015 - ERROR - No valid state-action pairs in ./replays\906b76c2-28b7-47f3-9f96-2a72c67c358c.replay
+2025-04-23 12:35:49,305 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:49,305 - ERROR - No valid state-action pairs in ./replays\92a1c8ac-30e3-4fa9-ab09-e4688068b0d9.replay
+2025-04-23 12:35:49,512 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:49,512 - ERROR - No valid state-action pairs in ./replays\92ec1a81-5103-4116-983d-41bd50d84fba.replay
+2025-04-23 12:35:49,958 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:49,958 - ERROR - No valid state-action pairs in ./replays\9482920d-6a8a-4e0f-8c50-e69acc212a1c.replay
+2025-04-23 12:35:50,250 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:50,251 - ERROR - No valid state-action pairs in ./replays\967f1382-62cd-4d37-9417-e1d6faee6ae9.replay
+2025-04-23 12:35:50,545 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:50,545 - ERROR - No valid state-action pairs in ./replays\97ac8f70-dda3-4210-a14c-254c040db4f4.replay
+2025-04-23 12:35:50,743 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:50,743 - ERROR - No valid state-action pairs in ./replays\97fa522f-f07d-4ddb-ad5f-85304a8fa3cf.replay
+2025-04-23 12:35:51,014 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:51,014 - ERROR - No valid state-action pairs in ./replays\987e2fe7-32fc-4616-a2f0-653ded47214e.replay
+2025-04-23 12:35:51,295 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:51,295 - ERROR - No valid state-action pairs in ./replays\996bbe42-3976-4167-8b45-9068818aea3a.replay
+2025-04-23 12:35:51,379 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:51,379 - ERROR - No valid state-action pairs in ./replays\9a599468-515d-49ab-9f50-ab4a7b815f12.replay
+2025-04-23 12:35:51,681 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:51,682 - ERROR - No valid state-action pairs in ./replays\9b6a20f6-5679-412a-b8e2-9050670d5eda.replay
+2025-04-23 12:35:51,854 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:51,854 - ERROR - No valid state-action pairs in ./replays\9b9565a3-0c5c-42d7-97d9-4fefd64a3abe.replay
+2025-04-23 12:35:52,131 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:52,131 - ERROR - No valid state-action pairs in ./replays\9cb1bc57-28b5-4191-81cf-9a3d915e7c10.replay
+2025-04-23 12:35:52,448 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:52,448 - ERROR - No valid state-action pairs in ./replays\9d4cf2a9-9473-4863-966b-88ff44e18373.replay
+2025-04-23 12:35:52,746 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:52,746 - ERROR - No valid state-action pairs in ./replays\9d65c1e8-f3f4-49e4-9215-1d47b4378730.replay
+2025-04-23 12:35:53,026 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:53,026 - ERROR - No valid state-action pairs in ./replays\9e59787c-5f54-4e82-889b-136aa49f8daa.replay
+2025-04-23 12:35:53,372 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:53,372 - ERROR - No valid state-action pairs in ./replays\9f10783a-3149-46f5-802d-cb6f0507e6fe.replay
+2025-04-23 12:35:53,703 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:53,704 - ERROR - No valid state-action pairs in ./replays\a160908e-e45d-4776-b961-b6eefd07838d.replay
+2025-04-23 12:35:54,046 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:54,046 - ERROR - No valid state-action pairs in ./replays\a31c2087-cd35-48cc-bc05-d968c787dac8.replay
+2025-04-23 12:35:54,228 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:54,228 - ERROR - No valid state-action pairs in ./replays\a40d4c36-17f2-4c51-b741-090675878f4b.replay
+2025-04-23 12:35:54,506 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:54,506 - ERROR - No valid state-action pairs in ./replays\a68f3359-e89f-4798-90da-1d050fb6a975.replay
+2025-04-23 12:35:54,761 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:54,761 - ERROR - No valid state-action pairs in ./replays\a6a98e0c-a4f9-449a-97f0-d0f5c7a1b64c.replay
+2025-04-23 12:35:54,933 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:54,934 - ERROR - No valid state-action pairs in ./replays\a7c9f212-6849-44ba-a95c-c161d04a22c1.replay
+2025-04-23 12:35:55,116 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:55,116 - ERROR - No valid state-action pairs in ./replays\a8eea531-470d-4fcd-b781-6dc2d7190ef8.replay
+2025-04-23 12:35:55,463 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:55,463 - ERROR - No valid state-action pairs in ./replays\a8fad843-c75f-4d9c-9659-76e2ff43a87d.replay
+2025-04-23 12:35:55,782 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:55,782 - ERROR - No valid state-action pairs in ./replays\a9618e4a-a363-4df4-96a7-3ef006975e10.replay
+2025-04-23 12:35:56,099 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:56,100 - ERROR - No valid state-action pairs in ./replays\ac1cc2aa-84a5-4e95-a4eb-30401446fecd.replay
+2025-04-23 12:35:56,351 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:56,351 - ERROR - No valid state-action pairs in ./replays\adbd9c78-69a9-4fb4-80d7-e96e8c51d849.replay
+2025-04-23 12:35:56,464 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:56,464 - ERROR - No valid state-action pairs in ./replays\ade44e32-6def-4be4-be2b-564a753777d8.replay
+2025-04-23 12:35:56,777 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:56,777 - ERROR - No valid state-action pairs in ./replays\aeb738a1-43fc-4409-86d3-1a0fad6b5cd5.replay
+2025-04-23 12:35:57,062 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:57,062 - ERROR - No valid state-action pairs in ./replays\af156535-794c-4c9e-b3e8-2b28597770a5.replay
+2025-04-23 12:35:57,491 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:57,491 - ERROR - No valid state-action pairs in ./replays\aff52eb9-433b-42ea-a61a-cab9080e1d25.replay
+2025-04-23 12:35:57,846 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:57,846 - ERROR - No valid state-action pairs in ./replays\b1bda5f2-debd-40da-9aea-1eb7006ed6dc.replay
+2025-04-23 12:35:58,172 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:58,172 - ERROR - No valid state-action pairs in ./replays\b1e28f03-bdd0-4489-8f72-792eeef6ca1f.replay
+2025-04-23 12:35:58,420 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:58,420 - ERROR - No valid state-action pairs in ./replays\b287cc48-22ba-45de-aa5b-740d35a2b67d.replay
+2025-04-23 12:35:58,759 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:58,759 - ERROR - No valid state-action pairs in ./replays\b2f668e4-d33c-401d-874a-fe01d899e2d9.replay
+2025-04-23 12:35:59,023 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:59,024 - ERROR - No valid state-action pairs in ./replays\b3002a16-1476-4a29-9643-296c67ee519b.replay
+2025-04-23 12:35:59,382 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:59,382 - ERROR - No valid state-action pairs in ./replays\b719b634-fb57-4004-b8af-7b2fb5483780.replay
+2025-04-23 12:35:59,815 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:35:59,816 - ERROR - No valid state-action pairs in ./replays\ba164b0b-6a4e-432e-af43-c5829da0a990.replay
+2025-04-23 12:36:00,148 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:00,148 - ERROR - No valid state-action pairs in ./replays\ba27b016-1682-4773-bbf0-c634ddbe9d8e.replay
+2025-04-23 12:36:00,478 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:00,478 - ERROR - No valid state-action pairs in ./replays\baf66edf-aea5-4cd6-b4bc-e9b69252a15f.replay
+2025-04-23 12:36:00,780 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:00,780 - ERROR - No valid state-action pairs in ./replays\bc26c51a-2de5-4aa7-967e-76daac9c62a1.replay
+2025-04-23 12:36:01,092 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:01,092 - ERROR - No valid state-action pairs in ./replays\bcfef3cf-4950-4573-b75d-897a803250f7.replay
+2025-04-23 12:36:01,480 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:01,480 - ERROR - No valid state-action pairs in ./replays\bdb33c3c-1dfe-4d93-a06f-4a0c7160a438.replay
+2025-04-23 12:36:01,781 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:01,781 - ERROR - No valid state-action pairs in ./replays\bdbd4d2b-8aa5-4956-8266-77b44249e4f9.replay
+2025-04-23 12:36:01,977 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:01,977 - ERROR - No valid state-action pairs in ./replays\be87a614-db10-4503-acd7-b5a856babf2a.replay
+2025-04-23 12:36:02,139 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:02,139 - ERROR - No valid state-action pairs in ./replays\bed584a4-3079-4147-b298-5a4070a38467.replay
+2025-04-23 12:36:02,394 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:02,395 - ERROR - No valid state-action pairs in ./replays\bf51bff3-fda4-464c-bf79-984493076d9d.replay
+2025-04-23 12:36:02,862 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:02,862 - ERROR - No valid state-action pairs in ./replays\c0ade5af-6061-411f-86d6-585a100438c1.replay
+2025-04-23 12:36:03,008 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:03,008 - ERROR - No valid state-action pairs in ./replays\c0e9b3f5-ab47-433c-b1bf-c7f60ae54939.replay
+2025-04-23 12:36:03,329 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:03,329 - ERROR - No valid state-action pairs in ./replays\c1af4898-f006-4d18-bcdc-7c95f3fa7ca9.replay
+2025-04-23 12:36:03,669 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:03,669 - ERROR - No valid state-action pairs in ./replays\c224ba81-671d-471f-a8c8-0fb2e9bb8534.replay
+2025-04-23 12:36:04,036 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:04,037 - ERROR - No valid state-action pairs in ./replays\c3905bd6-3aff-44f3-8f87-45e2838f7bd5.replay
+2025-04-23 12:36:04,354 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:04,354 - ERROR - No valid state-action pairs in ./replays\c415e385-955e-4fca-8d5d-f87e69ea0e06.replay
+2025-04-23 12:36:04,685 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:04,685 - ERROR - No valid state-action pairs in ./replays\c51f31fb-2b34-4765-a235-27a9ea71144e.replay
+2025-04-23 12:36:04,988 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:04,988 - ERROR - No valid state-action pairs in ./replays\c591e626-61f4-4881-b257-8ae05796704d.replay
+2025-04-23 12:36:05,298 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:05,298 - ERROR - No valid state-action pairs in ./replays\c61b781b-caf5-400f-950a-93e33a0475da.replay
+2025-04-23 12:36:05,548 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:05,548 - ERROR - No valid state-action pairs in ./replays\c82953d5-bf0a-45e4-ad68-6f3dca8fb3c6.replay
+2025-04-23 12:36:05,866 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:05,866 - ERROR - No valid state-action pairs in ./replays\c8a62a23-e7a5-4273-9406-1dc1171157eb.replay
+2025-04-23 12:36:06,182 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:06,182 - ERROR - No valid state-action pairs in ./replays\c92173b6-c7ef-4c6b-b14b-b5cd84084e97.replay
+2025-04-23 12:36:06,569 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:06,570 - ERROR - No valid state-action pairs in ./replays\c9951a93-8529-4c23-85b9-c3c2d0aa6e1f.replay
+2025-04-23 12:36:06,796 - ERROR - State update failed: 'str' object has no attribute 'get'
+2025-04-23 12:36:06,796 - ERROR - No valid state-action pairs in ./replays\ca83347f-fcba-467e-88dd-f33572aadad3.replay
